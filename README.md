@@ -78,14 +78,22 @@ NODE_ENV=dev
 PORT =3000
 
 POSTGRES_HOST=localhost
+
 POSTGRES_PORT=5432
+
 POSTGRES_DB=storefront
+
 POSTGRES_TEST_DB=storefront_test
+
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=1599
-BCRYPT_PASSWORD=speak_friend_and_enter
+
+POSTGRES_PASSWORD= your pass
+
+BCRYPT_PASSWORD= your pass
+
 SALT_ROUNDS=10
-TOKEN_SECRET=almohammadi123!
+
+TOKEN_SECRET=your secret
 
 
 ## Test project
